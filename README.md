@@ -1,3 +1,6 @@
+Program : Chat Application using client-server protocol
+This program helps to connect multiple computers which are connected to the comman network, so that they can communicate with each other.
+
 
 Socket:
 
